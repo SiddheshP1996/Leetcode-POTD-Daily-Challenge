@@ -1,1 +1,57 @@
 # Leetcode-POTD-Daily-Challenge
+
+# September-2023
+<li>Day 1: Counting Bits (338) (1st September 2023)</li>
+<li>Day 2: Extra Characters In A String (2707) (2nd September 2023)</li>
+<li>Day 3: Unique Paths (62) (3rd September 2023)</li>
+<li>Day 4: Linked List Cycle (141) (4th September 2023)</li>
+<li>Day 5: Copy List With Random Pointer (138) (5th September 2023)</li>
+<li>Day 6: Split Linked List In Parts (725) (6th September 2023)</li>
+<li>Day 7: Reverse Linked List II (92) (7th September 2023)</li>
+<li>Day 8: Pascal's Triangle (118) (8th September 2023)</li>
+<li>Day 9: Combination Sum IV (377) (9th September 2023)</li>
+<li>Day 10: Count All Valid Pickup And Delivery Options (1359) (10th September 2023)</li>
+<li>Day 11: Group The People Given The Group Size They Belong To (1282) (11th September 2023)</li>
+<li>Day 12: Minimum Deletions To Make Character Frequencies Unique (1647) (12th September 2023)</li>
+<li>Day 13: Candy (135) (13th September 2023)</li>
+<li>Day 14: Reconstruct Itinerary (332) (14th September 2023)</li>
+<li>Day 15: Min Cost To Connect All Points (1584) (15th September 2023)</li>
+<li>Day 16: Path With Minimum Effort (1631) (16th September 2023)</li>
+<li>Day 17: Shortest Path Visiting All Nodes (847) (17th September 2023)</li>
+<li>Day 18: The K Weakest Rows In A Matrix (1337) (18th September 2023)</li>
+<li>Day 19: Find The Duplicate Number (287) (19th September 2023)</li>
+<li>Day 20: Minimum Operations To Reduce X To Zero (1658) (20th September 2023)</li>
+<li>Day 21: Median Of Two Sorted Arrays (4) (21st September 2023)</li>
+<li>Day 22: Is Subsequence (392) (22nd September 2023)</li>
+<li>Day 23: Longest String Chain (1048) (23rd September 2023)</li>
+<li>Day 24: Champagne Tower (799) (24th September 2023)</li>
+<li>Day 25: Find The Difference (389) (25th September 2023)</li>
+<li>Day 26: Remove Duplicate Letters (316) (26th September 2023)</li>
+<li>Day 27: Decoded String At Index (880) (27th September 2023)</li>
+<li>Day 28: Sort Array By Parity (905) (28th September 2023)</li>
+<li>Day 29: Monotonic Array (896) (29th September 2023)</li>
+<li>Day 30: 132 Pattern (456) (30th September 2023)</li>
+
+# October-2023
+<li>Day 1: Reverse-Words-In-A-String-III-(557) (1st October 2023) </li>
+<li>Day 2: Remove-Colored-Pieces-If-Both-Neighbors-Are-The-Same-Color-(2038) (2nd October 2023) </li>
+<li>Day 3: Number-Of-Good-Pairs-(1512) (3rd October 2023) </li>
+<li>Day 4: Design-HashMap-(706) (4th October 2023) </li>
+<li>Day 5: Majority-Element-II-(229) (5th October 2023) </li>
+<li>Day 6: Integer-Break-(343) (6th October 2023) </li>
+<li>Day 7: Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons-(1420) (7th October 2023) </li>
+<li>Day 8: Max-Dot-Product-Of-Two-Subsequences-(1458) (8th October 2023) </li>
+<li>Day 9: Find-First-And-Last-Position-Of-Element-In-Sorted-Array-(34) (9th October 2023) </li>
+<li>Day 10: Minimum-Number-Of-Operations-To-Make-Array-Continuous-(2009) (10th October 2023) </li>
+<li>Day 11: Number-Of-Flowers-In-Full-Bloom-(2251) (11th October 2023) </li>
+<li>Day 12: Find-In-Mountain-Array-(1095) (12th October 2023) </li>
+<li>Day 13: Min-Cost-Climbing-Stairs-(746) (13th October 2023) </li>
+<li>Day 14: Painting-The-Walls-(2742) (14th October 2023) </li>
+<li>Day 15: Number-Of-Ways-To-Stay-In-The-Same-Place-After-Some-Steps-(1269) (15th October 2023) </li>
+<li>Day 16: Pascal's-Triangle-II-(119) (16th October 2023) </li>
+<li>Day 17: Validate-Binary-Tree-Nodes-(1361) (17th October 2023) </li>
+<li>Day 18: Parallel-Courses-III-(2050) (18th October 2023) </li>
+<li>Day 19: Backspace-String-Compare-(844) (19th October 2023) </li>
+<li>Day 20: Flatten-Nested-List-Iterator-(341) (20th October 2023) </li>
+<li>Day 21: Constrained-Subsequence-Sum-(1425) (21st October 2023) </li>
+<li>Day 22: Maximum-Score-Of-A-Good-Subarray-(1793) (22nd October 2023) </li>
