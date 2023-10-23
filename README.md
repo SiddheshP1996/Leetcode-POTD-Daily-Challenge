@@ -55,3 +55,12 @@
 <li>Day 20: Flatten-Nested-List-Iterator-(341) (20th October 2023) </li>
 <li>Day 21: Constrained-Subsequence-Sum-(1425) (21st October 2023) </li>
 <li>Day 22: Maximum-Score-Of-A-Good-Subarray-(1793) (22nd October 2023) </li>
+<li>Day 23: Power Of Four (342) (23rd October 2023)</li>
+
+
+
+
+
+
+
+
