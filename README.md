@@ -56,7 +56,7 @@
 <li>Day 21: Constrained-Subsequence-Sum-(1425) (21st October 2023) </li>
 <li>Day 22: Maximum-Score-Of-A-Good-Subarray-(1793) (22nd October 2023) </li>
 <li>Day 23: Power Of Four (342) (23rd October 2023)</li>
-
+<li>Day 24: Find Largest Value In Each Tree Row (515) (24th October 2023)</li>
 
 
 
