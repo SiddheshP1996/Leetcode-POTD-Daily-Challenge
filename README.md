@@ -58,7 +58,7 @@
 <li>Day 23: Power Of Four (342) (23rd October 2023)</li>
 <li>Day 24: Find Largest Value In Each Tree Row (515) (24th October 2023)</li>
 <li>Day 25: K-th Symbol In Grammar (779) (25th October 2023)</li>
-
+<li>Day 26: Binary Trees With Factors (823) (26th October 2023)</li>
 
 
 
