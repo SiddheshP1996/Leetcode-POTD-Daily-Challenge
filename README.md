@@ -59,7 +59,7 @@
 <li>Day 24: Find Largest Value In Each Tree Row (515) (24th October 2023)</li>
 <li>Day 25: K-th Symbol In Grammar (779) (25th October 2023)</li>
 <li>Day 26: Binary Trees With Factors (823) (26th October 2023)</li>
-
+<li>Day 27: Longest Palindromic Substring (5) (27th October 2023)</li>
 
 
 
