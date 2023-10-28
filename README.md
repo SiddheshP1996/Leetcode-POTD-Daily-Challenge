@@ -60,7 +60,7 @@
 <li>Day 25: K-th Symbol In Grammar (779) (25th October 2023)</li>
 <li>Day 26: Binary Trees With Factors (823) (26th October 2023)</li>
 <li>Day 27: Longest Palindromic Substring (5) (27th October 2023)</li>
-
+<li>Day 28: Count Vowels Permutation (1220) (28th October 2023)</li>
 
 
 
