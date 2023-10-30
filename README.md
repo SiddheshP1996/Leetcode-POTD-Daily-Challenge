@@ -62,5 +62,5 @@
 <li>Day 27: Longest Palindromic Substring (5) (27th October 2023)</li>
 <li>Day 28: Count Vowels Permutation (1220) (28th October 2023)</li>
 <li>Day 29: Poor Pigs (458) (29th October 2023)</li>
-
+<li>Day 30: Sort Integers By The Number Of 1 Bits (1356) (30th October 2023)</li>
 
