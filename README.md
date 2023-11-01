@@ -66,3 +66,4 @@
 <li>Day 31: Find The Original Array Of Prefix Xor (2433) (31st October 2023)</li>
 
 # November-2023
+<li>Day 1: Find Mode In Binary Search Tree (501) (1st November 2023)</li>
