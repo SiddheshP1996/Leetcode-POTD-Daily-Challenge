@@ -68,3 +68,4 @@
 # November-2023
 <li>Day 1: Find Mode In Binary Search Tree (501) (1st November 2023)</li>
 <li>Day 2: Count Nodes Equal To Average Of Subtree (2265) (2nd November 2023)</li>
+<li>Day 3: Build An Array With Stack Operations (1441) (3rd November 2023)</li>
