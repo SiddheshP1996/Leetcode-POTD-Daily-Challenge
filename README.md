@@ -70,3 +70,4 @@
 <li>Day 2: Count Nodes Equal To Average Of Subtree (2265) (2nd November 2023)</li>
 <li>Day 3: Build An Array With Stack Operations (1441) (3rd November 2023)</li>
 <li>Day 4: Last Moment Before All Ants Fall Out Of A Plank (1503) (4th November 2023)</li>
+<li>Day 5: Find The Winner Of An Array Game (1535) (5th November 2023)</li>
