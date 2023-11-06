@@ -71,3 +71,4 @@
 <li>Day 3: Build An Array With Stack Operations (1441) (3rd November 2023)</li>
 <li>Day 4: Last Moment Before All Ants Fall Out Of A Plank (1503) (4th November 2023)</li>
 <li>Day 5: Find The Winner Of An Array Game (1535) (5th November 2023)</li>
+<li>Day 6: Seat Reservation Manager(1845) (6th November 2023)</li>
