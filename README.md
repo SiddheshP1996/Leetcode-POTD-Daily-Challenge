@@ -74,3 +74,4 @@
 <li>Day 6: Seat Reservation Manager(1845) (6th November 2023)</li>
 <li>Day 7: Eliminate Maximum Number Of Monsters (1921) (7th November 2023)</li>
 <li>Day 8: Determine If A Cell Is Reachable At A Given Time (2849) (8th November 2023)</li>
+<li>Day 9: Count Number Of Homogenous Substrings (1759) (9th November 2023)</li>
