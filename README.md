@@ -75,3 +75,4 @@
 <li>Day 7: Eliminate Maximum Number Of Monsters (1921) (7th November 2023)</li>
 <li>Day 8: Determine If A Cell Is Reachable At A Given Time (2849) (8th November 2023)</li>
 <li>Day 9: Count Number Of Homogenous Substrings (1759) (9th November 2023)</li>
+<li>Day 10: Restore The Array From Adjacent Pairs (1743) (10th November 2023)</li>
