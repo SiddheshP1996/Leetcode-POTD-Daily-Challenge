@@ -78,3 +78,4 @@
 <li>Day 10: Restore The Array From Adjacent Pairs (1743) (10th November 2023)</li>
 <li>Day 11: Design Graph With Shortest Path Calculator (2642) (11th November 2023)</li>
 <li>Day 12: Bus Routes (815) (12th November 2023)</li>
+<li>Day 13: Sort Vowels In A String (2785) (13th November 2023)</li>
