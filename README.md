@@ -82,3 +82,4 @@
 <li>Day 14: Unique Length-3 Palindromic Subsequences (1930) (14 November 2023)</li>
 <li>Day 15: Maximum Element After Decreasing And Rearranging (1846) (15th November 2023)</li>
 <li>Day 16: Find Unique Binary String (1980) (16th November 2023)</li>
+<li>Day 17: Minimize Maximum Pair Sum In Array (1877) (17th November 2023)</li>
