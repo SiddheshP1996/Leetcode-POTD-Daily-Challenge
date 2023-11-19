@@ -84,3 +84,4 @@
 <li>Day 16: Find Unique Binary String (1980) (16th November 2023)</li>
 <li>Day 17: Minimize Maximum Pair Sum In Array (1877) (17th November 2023)</li>
 <li>Day 18: Frequency Of The Most Frequent Element (1838) (18th November 2023)</li>
+<li>Day 19: Reduction Operations To Make The Array Elements Equal (1887) (19th November 2023)</li>
