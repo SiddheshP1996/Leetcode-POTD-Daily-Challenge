@@ -86,3 +86,4 @@
 <li>Day 18: Frequency Of The Most Frequent Element (1838) (18th November 2023)</li>
 <li>Day 19: Reduction Operations To Make The Array Elements Equal (1887) (19th November 2023)</li>
 <li>Day 20: Minimum Amount Of Time To Collect Garbage (2391) (20th November 2023)</li>
+<li>Day 21: Count Nice Pairs In An Array (1814) (21st November 2023)</li>
