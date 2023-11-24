@@ -89,3 +89,4 @@
 <li>Day 21: Count Nice Pairs In An Array (1814) (21st November 2023)</li>
 <li>Day 22: Diagonal Traverse II (1424) (22nd November 2023)</li>
 <li>Day 23: Arithmetic Subarrays (1630) (23rd November 2023)</li>
+<li>Day 24: Maximum Number Of Coins You Can Get (1561) (24th November 2023)</li>
