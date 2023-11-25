@@ -90,3 +90,4 @@
 <li>Day 22: Diagonal Traverse II (1424) (22nd November 2023)</li>
 <li>Day 23: Arithmetic Subarrays (1630) (23rd November 2023)</li>
 <li>Day 24: Maximum Number Of Coins You Can Get (1561) (24th November 2023)</li>
+<li>Day 25: Sum Of Absolute Differences In A Sorted Array (1685) (25th November 2023)</li>
