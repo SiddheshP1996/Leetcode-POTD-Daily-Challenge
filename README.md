@@ -91,3 +91,4 @@
 <li>Day 23: Arithmetic Subarrays (1630) (23rd November 2023)</li>
 <li>Day 24: Maximum Number Of Coins You Can Get (1561) (24th November 2023)</li>
 <li>Day 25: Sum Of Absolute Differences In A Sorted Array (1685) (25th November 2023)</li>
+<li>Day 26: Largest Submatrix With Rearrangements (1727) (26th November 2023)</li>
