@@ -95,3 +95,4 @@
 <li>Day 27: Knight Dialer (935) (27th November 2023)</li>
 <li>Day 28: Number Of Ways To Divide A Long Corridor (2147) (28th November 2023)</li>
 <li>Day 29: Number Of 1 Bits (191) (29th November 2023)</li>
+<li>Day 30: Minimum One Bit Operations To Make Integers Zero (1611) (30th November 2023)</li>
