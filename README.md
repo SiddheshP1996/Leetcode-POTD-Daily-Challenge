@@ -99,3 +99,4 @@
 
 # December-2023
 <li>Day 1: Check If Two String Arrays Are Equivalent (1662) (1st December 2023)</li>
+<li>Day 2: Find Words That Can Be Formed By Characters (1160) (2nd November 2023)</li>
