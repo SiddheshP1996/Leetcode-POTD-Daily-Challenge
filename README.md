@@ -103,3 +103,4 @@
 <li>Day 3: Minimum Time Visiting All Points (1266) (3rd December 2023)</li>
 <li>Day 4: Largest 3 Same Digit Number In String (2264) (4th December 2023)</li>
 <li>Day 5: Count Of Matches In Tournament (1688) (5th December 2023)</li>
+<li>Day 6: Calculate Money In Leetcode Bank (1716) (6th December 2023)</li>
