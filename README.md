@@ -106,3 +106,4 @@
 <li>Day 6: Calculate Money In Leetcode Bank (1716) (6th December 2023)</li>
 <li>Day 7: Largest Odd Number In String (1903) (7th December 2023)</li>
 <li>Day 8: Construct String From Binary Tree (606) (8th December 2023)</li>
+<li>Day 9: Binary Tree Inorder Traversal (94) (9th December 2023)</li>
