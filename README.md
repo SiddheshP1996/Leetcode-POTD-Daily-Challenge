@@ -111,3 +111,4 @@
 <li>Day 11: Element Appearing More Than 25% In Sorted Array (1287) (11th December 2023)</li>
 <li>Day 12: Maximum Product Of Two Elements In An Array (1464) (12th December 2023)</li>
 <li>Day 13: Special Positions In A Binary Matrix (1582) (13th December 2023)</li>
+<li>Day 14: Difference Between Ones And Zeros In Row And Column (2482) (14th December 2023)</li>
