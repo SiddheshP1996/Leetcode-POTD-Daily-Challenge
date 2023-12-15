@@ -112,3 +112,4 @@
 <li>Day 12: Maximum Product Of Two Elements In An Array (1464) (12th December 2023)</li>
 <li>Day 13: Special Positions In A Binary Matrix (1582) (13th December 2023)</li>
 <li>Day 14: Difference Between Ones And Zeros In Row And Column (2482) (14th December 2023)</li>
+<li>Day 15: Destination City (1436) (15th December 2023)</li>
