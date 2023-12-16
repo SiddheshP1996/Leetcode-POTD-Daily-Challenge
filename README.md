@@ -113,3 +113,4 @@
 <li>Day 13: Special Positions In A Binary Matrix (1582) (13th December 2023)</li>
 <li>Day 14: Difference Between Ones And Zeros In Row And Column (2482) (14th December 2023)</li>
 <li>Day 15: Destination City (1436) (15th December 2023)</li>
+<li>Day 16: Valid Anagram (242) (16th December 2023)</li>
