@@ -116,3 +116,4 @@
 <li>Day 16: Valid Anagram (242) (16th December 2023)</li>
 <li>Day 17: Design A Food Rating System (2353) (17th December 2023)</li>
 <li>Day 18: Maximum Product Difference Between Two Pairs (1913) (18th December 2023)</li>
+<li>Day 19: Image Smoother (661) (19th December 2023)</li>
