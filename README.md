@@ -120,3 +120,4 @@
 <li>Day 18: Maximum Product Difference Between Two Pairs (1913) (18th December 2023)</li>
 <li>Day 19: Image Smoother (661) (19th December 2023)</li>
 <li>Day 20: Buy Two Chocolates (2706) (20th December 2023)</li>
+<li>Day 21: Widest Vertical Area Between Two Points Containing No Points (1637) (21st December 2023)</li>
