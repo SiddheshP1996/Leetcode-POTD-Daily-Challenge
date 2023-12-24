@@ -123,3 +123,4 @@
 <li>Day 21: Widest Vertical Area Between Two Points Containing No Points (1637) (21st December 2023)</li>
 <li>Day 22: Maximum Score After Splitting A String (1422) (22nd December 2023)</li>
 <li>Day 23: Path Crossing (1496) (23rd December 2023)</li>
+<li>Day 24: Minimum Changes To Make Alternating Binary String (1758) (24th December 2023)</li>
