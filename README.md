@@ -125,3 +125,4 @@
 <li>Day 23: Path Crossing (1496) (23rd December 2023)</li>
 <li>Day 24: Minimum Changes To Make Alternating Binary String (1758) (24th December 2023)</li>
 <li>Day 25: Decode Ways (91) (25th December 2023)</li>
+<li>Day 26: Number Of Dice Rolls With Target Sum (1155) (26th December 2023)</li>
