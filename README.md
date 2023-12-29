@@ -128,3 +128,4 @@
 <li>Day 26: Number Of Dice Rolls With Target Sum (1155) (26th December 2023)</li>
 <li>Day 27: Minimum Time To Make Rope Colorful (1578) (27th December 2023)</li>
 <li>Day 28: String Compression II (1531) (28th December 2023)</li>
+<li>Day 29: Minimum Difficulty Of A Job Schedule (1335) (29th December 2023)</li>
