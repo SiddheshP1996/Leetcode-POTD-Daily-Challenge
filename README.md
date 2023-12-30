@@ -129,3 +129,4 @@
 <li>Day 27: Minimum Time To Make Rope Colorful (1578) (27th December 2023)</li>
 <li>Day 28: String Compression II (1531) (28th December 2023)</li>
 <li>Day 29: Minimum Difficulty Of A Job Schedule (1335) (29th December 2023)</li>
+<li>Day 30: Redistribute Characters To Make All Strings Equal (1897) (30th December 2023)</li>
