@@ -130,3 +130,10 @@
 <li>Day 28: String Compression II (1531) (28th December 2023)</li>
 <li>Day 29: Minimum Difficulty Of A Job Schedule (1335) (29th December 2023)</li>
 <li>Day 30: Redistribute Characters To Make All Strings Equal (1897) (30th December 2023)</li>
+<li>Day 31: Largest Substring Between Two Equal Characters (1624) (31st December 2023)</li>
+
+<hr>
+
+# Challenge-Solutions-for-2024
+
+# January-2024
