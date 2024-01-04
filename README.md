@@ -140,3 +140,4 @@
 <li>Day 1: Assign Cookies (455) (1st January 2024)</li>
 <li>Day 2: Convert An Array Into A 2D Array With Conditions (2610) (2nd January 2024)</li>
 <li>Day 3: Number Of Laser Beams In A Bank (2125) (3rd January 2024)</li>
+<li>Day 4: Minimum Number Of Operations To Make Array Empty (2870) (4th January 2024)</li>
