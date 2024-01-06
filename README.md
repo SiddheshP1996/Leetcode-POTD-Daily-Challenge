@@ -142,3 +142,4 @@
 <li>Day 3: Number Of Laser Beams In A Bank (2125) (3rd January 2024)</li>
 <li>Day 4: Minimum Number Of Operations To Make Array Empty (2870) (4th January 2024)</li>
 <li>Day 5: Longest Increasing Subsequence (300) (5th January 2024)</li>
+<li>Day 6: Maximum Profit In Job Scheduling (1235) (6th January 2024)</li>
