@@ -145,3 +145,4 @@
 <li>Day 6: Maximum Profit In Job Scheduling (1235) (6th January 2024)</li>
 <li>Day 7: Arithmetic Slices II - Subsequence (446) (7th January 2024)</li>
 <li>Day 8: Range Sum Of BST (938) (8th January 2024)</li>
+<li>Day 9: Leaf Similar Trees (872) (9th January 2024)</li>
