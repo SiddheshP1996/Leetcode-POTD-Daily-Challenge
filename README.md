@@ -147,3 +147,4 @@
 <li>Day 8: Range Sum Of BST (938) (8th January 2024)</li>
 <li>Day 9: Leaf Similar Trees (872) (9th January 2024)</li>
 <li>Day 10: Amount Of Time For Binary Tree To Be Infected (2385) (10th January 2024)</li>
+<li>Day 11: Maximum Difference Between Node And Ancestor (1026) (11th January 2024)</li>
