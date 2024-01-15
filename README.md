@@ -151,3 +151,4 @@
 <li>Day 12: Determine If String Halves Are Alike (1704) (12th January 2024)</li>
 <li>Day 13: Minimum Number Of Steps To Make Two Strings Anagram (1347) (13th January 2024)</li>
 <li>Day 14: Determine If Two Strings Are Close (1657) (14th January 2024)</li>
+<li>Day 15: Find Players With Zero Or One Losses (2225) (15th January 2024)</li>
