@@ -156,3 +156,4 @@
 <li>Day 17: Unique Number Of Occurrences (1207) (17th January 2024)</li>
 <li>Day 18: Climbing Stairs (70) (18th January 2024)</li>
 <li>Day 19: Minimum Falling Path Sum (931) (19th January 2024)</li>
+<li>Day 20: Sum Of Subarray Minimums (907) (20th January 2024)</li>
