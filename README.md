@@ -158,3 +158,4 @@
 <li>Day 19: Minimum Falling Path Sum (931) (19th January 2024)</li>
 <li>Day 20: Sum Of Subarray Minimums (907) (20th January 2024)</li>
 <li>Day 21: House Robber (198) (21st January 2024)</li>
+<li>Day 22: Set Mismatch (645) (22nd January 2024)</li>
