@@ -160,3 +160,4 @@
 <li>Day 21: House Robber (198) (21st January 2024)</li>
 <li>Day 22: Set Mismatch (645) (22nd January 2024)</li>
 <li>Day 23: Maximum Length Of A Concatenated String With Unique Characters (1239) (23rd January 2024)</li>
+<li>Day 24: Pseudo Palindromic Paths In A Binary Tree (1457) (24th January 2024)</li>
