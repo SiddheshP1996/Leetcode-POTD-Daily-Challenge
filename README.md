@@ -163,3 +163,4 @@
 <li>Day 24: Pseudo Palindromic Paths In A Binary Tree (1457) (24th January 2024)</li>
 <li>Day 25: Longest Common Subsequence (1143) (25th January 2024)</li>
 <li>Day 26: Out Of Boundary Paths (576) (26th January 2024)</li>
+<li>Day 27: K Inverse Pairs Array (629) (27th January 2024)</li>
