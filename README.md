@@ -164,3 +164,4 @@
 <li>Day 25: Longest Common Subsequence (1143) (25th January 2024)</li>
 <li>Day 26: Out Of Boundary Paths (576) (26th January 2024)</li>
 <li>Day 27: K Inverse Pairs Array (629) (27th January 2024)</li>
+<li>Day 28: Number Of Submatrices That Sum To Target (1074) (28th January 2024)</li>
