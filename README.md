@@ -166,3 +166,4 @@
 <li>Day 27: K Inverse Pairs Array (629) (27th January 2024)</li>
 <li>Day 28: Number Of Submatrices That Sum To Target (1074) (28th January 2024)</li>
 <li>Day 29: Implement Queue Using Stacks (232) (29th January 2024)</li>
+<li>Day 30: Evaluate Reverse Polish Notation (150) (30th January 2024)</li>
