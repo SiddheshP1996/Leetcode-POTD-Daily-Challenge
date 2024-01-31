@@ -167,3 +167,4 @@
 <li>Day 28: Number Of Submatrices That Sum To Target (1074) (28th January 2024)</li>
 <li>Day 29: Implement Queue Using Stacks (232) (29th January 2024)</li>
 <li>Day 30: Evaluate Reverse Polish Notation (150) (30th January 2024)</li>
+<li>Day 31: Daily Temperatures (739) (31st January 2024)</li>
