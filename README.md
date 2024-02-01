@@ -168,3 +168,6 @@
 <li>Day 29: Implement Queue Using Stacks (232) (29th January 2024)</li>
 <li>Day 30: Evaluate Reverse Polish Notation (150) (30th January 2024)</li>
 <li>Day 31: Daily Temperatures (739) (31st January 2024)</li>
+
+# February-2024
+<li>Day 1: Divide Array Into Arrays With Max Difference (2966) (1st February 2024)</li>
