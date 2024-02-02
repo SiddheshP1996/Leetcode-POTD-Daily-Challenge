@@ -171,3 +171,4 @@
 
 # February-2024
 <li>Day 1: Divide Array Into Arrays With Max Difference (2966) (1st February 2024)</li>
+<li>Day 2: Sequential Digits (1291) (2nd February 2024)</li>
