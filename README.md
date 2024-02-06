@@ -175,3 +175,4 @@
 <li>Day 3: Partition Array For Maximum Sum (1043) (3rd February 2024)</li>
 <li>Day 4: Minimum Window Substring (76) (4th February 2024)</li>
 <li>Day 5: First Unique Character In A String (387) (5th February 2024)</li>
+<li>Day 6: Group Anagrams (49) (6th February 2024)</li>
