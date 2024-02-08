@@ -177,3 +177,4 @@
 <li>Day 5: First Unique Character In A String (387) (5th February 2024)</li>
 <li>Day 6: Group Anagrams (49) (6th February 2024)</li>
 <li>Day 7: Sort Characters By Frequency (451) (7th February 2024)</li>
+<li>Day 8: Perfect Squares (279) (8th February 2024)</li>
