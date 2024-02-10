@@ -179,3 +179,4 @@
 <li>Day 7: Sort Characters By Frequency (451) (7th February 2024)</li>
 <li>Day 8: Perfect Squares (279) (8th February 2024)</li>
 <li>Day 9: Largest Divisible Subset (368) (9th February 2024)</li>
+<li>Day 10: Palindromic Substrings (647) (10th February 2024)</li>
