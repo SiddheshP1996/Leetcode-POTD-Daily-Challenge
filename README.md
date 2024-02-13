@@ -182,3 +182,4 @@
 <li>Day 10: Palindromic Substrings (647) (10th February 2024)</li>
 <li>Day 11: Cherry Pickup II (1463) (11th February 2024)</li>
 <li>Day 12: Majority Element (169) (12th February 2024)</li>
+<li>Day 13: Find First Palindromic String In The Array (2108) (13th February 2024)</li>
