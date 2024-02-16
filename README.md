@@ -185,3 +185,4 @@
 <li>Day 13: Find First Palindromic String In The Array (2108) (13th February 2024)</li>
 <li>Day 14: Rearrange Array Elements By Sign (2149) (14th February 2024)</li>
 <li>Day 15: Find Polygon With The Largest Perimeter (2971) (15th February 2024)</li>
+<li>Day 16: Least Number Of Unique Integers After K Removals (1481) (16th February 2024)</li>
