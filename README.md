@@ -190,3 +190,4 @@
 <li>Day 18: Meeting Rooms III (2402) (18th February 2024)</li>
 <li>Day 19: Power Of Two (231) (19th February 2024)</li>
 <li>Day 20: Missing Number (268) (20th February 2024)</li>
+<li>Day 21: Bitwise AND Of Numbers Range (201) (21st February 2024)</li>
