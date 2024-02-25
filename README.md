@@ -194,3 +194,4 @@
 <li>Day 22: Find The Town Judge (997) (22nd February 2024)</li>
 <li>Day 23: Cheapest Flights Within K Stops (787) (23rd February 2024)</li>
 <li>Day 24: Find All People With Secret (2092) (24th February 2024)</li>
+<li>Day 25: Greatest Common Divisor Traversal (2709) (25th February 2024)</li>
