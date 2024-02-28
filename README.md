@@ -197,3 +197,4 @@
 <li>Day 25: Greatest Common Divisor Traversal (2709) (25th February 2024)</li>
 <li>Day 26: Same Tree (100) (26th February 2024)</li>
 <li>Day 27: Diameter Of Binary Tree (543) (27th February 2024)</li>
+<li>Day 28: Find Bottom Left Tree Value (513) (28th February 2024)</li>
