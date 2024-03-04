@@ -204,3 +204,4 @@
 <li>Day 1: Maximum Odd Binary Number (2864) (1st March 2024)</li>
 <li>Day 2: Squares Of A Sorted Array (977) (2nd March 2024)</li>
 <li>Day 3: Remove Nth Node From End Of List (19) (3rd March 2024)</li>
+<li>Day 4: Bag Of Tokens (948) (4th March 2024)</li>
