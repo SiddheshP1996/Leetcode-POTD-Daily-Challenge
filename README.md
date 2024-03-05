@@ -205,3 +205,4 @@
 <li>Day 2: Squares Of A Sorted Array (977) (2nd March 2024)</li>
 <li>Day 3: Remove Nth Node From End Of List (19) (3rd March 2024)</li>
 <li>Day 4: Bag Of Tokens (948) (4th March 2024)</li>
+<li>Day 5: Minimum Length Of String After Deleting Similar Ends (1750) (5th March 2024)</li>
