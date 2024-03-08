@@ -208,3 +208,4 @@
 <li>Day 5: Minimum Length Of String After Deleting Similar Ends (1750) (5th March 2024)</li>
 <li>Day 6: Linked List Cycle (141) (6th March 2024)</li>
 <li>Day 7: Middle Of The Linked List (876) (7th March 2024)</li>
+<li>Day 8: Count Elements With Maximum Frequency (3005) (8th March 2024)</li>
