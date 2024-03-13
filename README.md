@@ -213,3 +213,4 @@
 <li>Day 10: Intersection Of Two Arrays (349) (10th March 2024)</li>
 <li>Day 11: Custom Sort String (791) (11th March 2024)</li>
 <li>Day 12: Remove Zero Sum Consecutive Nodes From Linked List (1171) (12th March 2024)</li>
+<li>Day 13: Find The Pivot Integer (2485) (13th March 2024)</li>
