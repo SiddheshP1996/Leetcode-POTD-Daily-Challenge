@@ -216,3 +216,4 @@
 <li>Day 13: Find The Pivot Integer (2485) (13th March 2024)</li>
 <li>Day 14: Binary Subarrays With Sum (930) (14th March 2024)</li>
 <li>Day 15: Product Of Array Except Self (238) (15th March 2024)</li>
+<li>Day 16: Contiguous Array (525) (16th March 2024)</li>
