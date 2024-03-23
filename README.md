@@ -223,3 +223,4 @@
 <li>Day 20: Merge In Between Linked Lists (1669) (20th March 2024)</li>
 <li>Day 21: Reverse Linked List (206) (21st March 2024)</li>
 <li>Day 22: Palindrome Linked List (234) (22nd March 2024)</li>
+<li>Day 23: Reorder List (143) (23rd March 2024)</li>
