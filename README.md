@@ -225,3 +225,4 @@
 <li>Day 22: Palindrome Linked List (234) (22nd March 2024)</li>
 <li>Day 23: Reorder List (143) (23rd March 2024)</li>
 <li>Day 24: Find The Duplicate Number (287) (24th March 2024)</li>
+<li>Day 25: Find All Duplicates In An Array (442) (25th March 2024)</li>
