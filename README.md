@@ -230,3 +230,4 @@
 <li>Day 27: Subarray Product Less Than K (713) (27th March 2024)</li>
 <li>Day 28: Length Of Longest Subarray With At Most K Frequency (2958) (28th March 2024)</li>
 <li>Day 29: Count Subarrays Where Max Element Appears At Least K Times (2962) (29th March 2024)</li>
+<li>Day 30: Subarrays With K Different Integers (992) (30th March 2024)</li>
