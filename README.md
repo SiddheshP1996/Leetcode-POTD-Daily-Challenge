@@ -231,3 +231,6 @@
 <li>Day 28: Length Of Longest Subarray With At Most K Frequency (2958) (28th March 2024)</li>
 <li>Day 29: Count Subarrays Where Max Element Appears At Least K Times (2962) (29th March 2024)</li>
 <li>Day 30: Subarrays With K Different Integers (992) (30th March 2024)</li>
+<li>Day 31: Count Subarrays With Fixed Bounds (2444) (31st March 2024)</li>
+
+# April-2024
