@@ -235,3 +235,4 @@
 
 # April-2024
 <li>Day 1: Length Of Last Word (58) (1st April 2024)</li>
+<li>Day 2: Isomorphic Strings (205) (2nd April 2024)</li>
