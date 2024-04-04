@@ -237,3 +237,4 @@
 <li>Day 1: Length Of Last Word (58) (1st April 2024)</li>
 <li>Day 2: Isomorphic Strings (205) (2nd April 2024)</li>
 <li>Day 3: Word Search (79) (3rd April 2024)</li>
+<li>Day 4: Maximum Nesting Depth Of The Parentheses (1614) (4th April 2024)</li>
