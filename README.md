@@ -238,3 +238,4 @@
 <li>Day 2: Isomorphic Strings (205) (2nd April 2024)</li>
 <li>Day 3: Word Search (79) (3rd April 2024)</li>
 <li>Day 4: Maximum Nesting Depth Of The Parentheses (1614) (4th April 2024)</li>
+<li>Day 5: Make The String Great (1544) (5th April 2024)</li>
