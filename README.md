@@ -240,3 +240,4 @@
 <li>Day 4: Maximum Nesting Depth Of The Parentheses (1614) (4th April 2024)</li>
 <li>Day 5: Make The String Great (1544) (5th April 2024)</li>
 <li>Day 6: Minimum Remove To Make Valid Parentheses (1249) (6th April 2024)</li>
+<li>Day 7: Valid Parenthesis String (678) (7th April 2024)</li>
