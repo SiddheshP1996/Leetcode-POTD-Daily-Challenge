@@ -244,3 +244,4 @@
 <li>Day 8: Number Of Students Unable To Eat Lunch (1700) (8th April 2024)</li>
 <li>Day 9: Time Needed To Buy Tickets (2073) (9th April 2024)</li>
 <li>Day 10: Reveal Cards In Increasing Order (950) (10th April 2024)</li>
+<li>Day 11: Remove K Digits (402) (11th April 2024)</li>
