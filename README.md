@@ -246,3 +246,4 @@
 <li>Day 10: Reveal Cards In Increasing Order (950) (10th April 2024)</li>
 <li>Day 11: Remove K Digits (402) (11th April 2024)</li>
 <li>Day 12: Trapping Rain Water (42) (12th April 2024)</li>
+<li>Day 13: Maximal Rectangle (85) (13th April 2024)</li>
