@@ -249,3 +249,4 @@
 <li>Day 13: Maximal Rectangle (85) (13th April 2024)</li>
 <li>Day 14: Sum Of Left Leaves (404) (14th April 2024)</li>
 <li>Day 15: Sum Root To Leaf Numbers (129) (15th April 2024)</li>
+<li>Day 16: Add One Row To Tree (623) (16th April 2024)</li>
