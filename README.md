@@ -250,3 +250,5 @@
 <li>Day 14: Sum Of Left Leaves (404) (14th April 2024)</li>
 <li>Day 15: Sum Root To Leaf Numbers (129) (15th April 2024)</li>
 <li>Day 16: Add One Row To Tree (623) (16th April 2024)</li>
+<li>Day 17: Smallest String Starting From Leaf (988) (17th April 2024)</li>
+<li>Day 18: Island Perimeter (463) (18th April 2024)</li>
