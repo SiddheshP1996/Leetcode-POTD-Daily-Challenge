@@ -253,3 +253,4 @@
 <li>Day 17: Smallest String Starting From Leaf (988) (17th April 2024)</li>
 <li>Day 18: Island Perimeter (463) (18th April 2024)</li>
 <li>Day 19: Number Of Islands (200) (19th April 2024)</li>
+<li>Day 20: Find All Groups Of Farmland (1992) (20th April 2024)</li>
