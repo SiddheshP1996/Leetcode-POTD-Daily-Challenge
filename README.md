@@ -257,3 +257,4 @@
 <li>Day 21: Find If Path Exists In Graph (1971) (21st April 2024)</li>
 <li>Day 22: Open The Lock (752) (22nd April 2024)</li>
 <li>Day 23: Minimum Height Trees (310) (23rd April 2024)</li>
+<li>Day 24: N-th Tribonacci Number (1137) (24th April 2024)</li>
