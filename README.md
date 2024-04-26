@@ -259,3 +259,4 @@
 <li>Day 23: Minimum Height Trees (310) (23rd April 2024)</li>
 <li>Day 24: N-th Tribonacci Number (1137) (24th April 2024)</li>
 <li>Day 25: Longest Ideal Subsequence (2370) (25th April 2024)</li>
+<li>Day 26: Minimum Falling Path Sum II (1289) (26th April 2024)</li>
