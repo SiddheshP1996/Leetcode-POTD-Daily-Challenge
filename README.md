@@ -262,3 +262,4 @@
 <li>Day 26: Minimum Falling Path Sum II (1289) (26th April 2024)</li>
 <li>Day 27: Freedom Trail (514) (27th April 2024)</li>
 <li>Day 28: Sum Of Distances In Tree (834) (28th April 2024)</li>
+<li>Day 29: Minimum Number Of Operations To Make Array XOR Equal To K (2997) (2th April 2024)</li>
