@@ -264,3 +264,6 @@
 <li>Day 28: Sum Of Distances In Tree (834) (28th April 2024)</li>
 <li>Day 29: Minimum Number Of Operations To Make Array XOR Equal To K (2997) (29th April 2024)</li>
 <li>Day 30: Number Of Wonderful Substrings (1915) (30th April 2024)</li>
+
+# May-2024
+<li>Day 1: Reverse Prefix Of Word (2000) (1st May 2024)</li>
