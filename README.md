@@ -270,3 +270,4 @@
 <li>Day 2: Largest Positive Integer That Exists With Its Negative (2441) (2nd May 2024)</li>
 <li>Day 3: Compare Version Numbers (165) (3rd May 2024)</li>
 <li>Day 4: Boats To Save People (881) (4th May 2024)</li>
+<li>Day 5: Delete Node In A Linked List (237) (5th May 2024)</li>
