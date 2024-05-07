@@ -272,3 +272,4 @@
 <li>Day 4: Boats To Save People (881) (4th May 2024)</li>
 <li>Day 5: Delete Node In A Linked List (237) (5th May 2024)</li>
 <li>Day 6: Remove Nodes From Linked List (2487) (6th May 2024)</li>
+<li>Day 7: Double A Number Represented As A Linked List (2816) (7th May 2024)</li>
