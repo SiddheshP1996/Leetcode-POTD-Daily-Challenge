@@ -275,3 +275,4 @@
 <li>Day 7: Double A Number Represented As A Linked List (2816) (7th May 2024)</li>
 <li>Day 8: Relative Ranks (506) (8th May 2024)</li>
 <li>Day 9: Maximize Happiness Of Selected Children (3075) (9th May 2024)</li>
+<li>Day 10: K-th Smallest Prime Fraction (786) (10th May 2024)</li>
