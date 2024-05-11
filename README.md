@@ -276,3 +276,4 @@
 <li>Day 8: Relative Ranks (506) (8th May 2024)</li>
 <li>Day 9: Maximize Happiness Of Selected Children (3075) (9th May 2024)</li>
 <li>Day 10: K-th Smallest Prime Fraction (786) (10th May 2024)</li>
+<li>Day 11: Minimum Cost To Hire K Workers (857) (11th May 2024)</li>
