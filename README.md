@@ -278,3 +278,4 @@
 <li>Day 10: K-th Smallest Prime Fraction (786) (10th May 2024)</li>
 <li>Day 11: Minimum Cost To Hire K Workers (857) (11th May 2024)</li>
 <li>Day 12: Largest Local Values In A Matrix (2373) (12th May 2024)</li>
+<li>Day 13: Score After Flipping Matrix (861) (13th May 2024)</li>
