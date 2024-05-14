@@ -279,3 +279,4 @@
 <li>Day 11: Minimum Cost To Hire K Workers (857) (11th May 2024)</li>
 <li>Day 12: Largest Local Values In A Matrix (2373) (12th May 2024)</li>
 <li>Day 13: Score After Flipping Matrix (861) (13th May 2024)</li>
+<li>Day 14: Path With Maximum Gold (1219) (14th May 2024)</li>
