@@ -281,3 +281,4 @@
 <li>Day 13: Score After Flipping Matrix (861) (13th May 2024)</li>
 <li>Day 14: Path With Maximum Gold (1219) (14th May 2024)</li>
 <li>Day 15: Find The Safest Path In A Grid (2812) (15th May 2024)</li>
+<li>Day 16: Evaluate Boolean Binary Tree (2331) (16th May 2024)</li>
