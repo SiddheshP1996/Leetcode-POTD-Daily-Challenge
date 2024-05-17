@@ -282,3 +282,4 @@
 <li>Day 14: Path With Maximum Gold (1219) (14th May 2024)</li>
 <li>Day 15: Find The Safest Path In A Grid (2812) (15th May 2024)</li>
 <li>Day 16: Evaluate Boolean Binary Tree (2331) (16th May 2024)</li>
+<li>Day 17: Delete Leaves With A Given Value (1325) (17th May 2024)</li>
