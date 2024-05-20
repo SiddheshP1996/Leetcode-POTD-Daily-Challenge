@@ -285,3 +285,4 @@
 <li>Day 17: Delete Leaves With A Given Value (1325) (17th May 2024)</li>
 <li>Day 18: Distribute Coins In Binary Tree (979) (18th May 2024)</li>
 <li>Day 19: Find The Maximum Sum Of Node Values (3068) (19th May 2024)</li>
+<li>Day 20: Sum Of All Subset XOR Totals (1863) (20th May 2024)</li>
