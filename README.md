@@ -289,3 +289,4 @@
 <li>Day 21: Subsets (78) (21st May 2024)</li>
 <li>Day 22: Palindrome Partitioning (131) (22nd May 2024)</li>
 <li>Day 23: The Number Of Beautiful Subsets (2597) (23rd May 2024)</li>
+<li>Day 24: Maximum Score Words Formed By Letters (1255) (24th May 2024)</li>
