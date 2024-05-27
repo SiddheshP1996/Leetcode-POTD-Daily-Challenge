@@ -292,3 +292,4 @@
 <li>Day 24: Maximum Score Words Formed By Letters (1255) (24th May 2024)</li>
 <li>Day 25: Word Break II (140) (25th May 2024)</li>
 <li>Day 26: Student Attendance Record II (552) (26th May 2024)</li>
+<li>Day 27: Special Array With X Elements Greater Than Or Equal X (1608) (27th May 2024)</li>
