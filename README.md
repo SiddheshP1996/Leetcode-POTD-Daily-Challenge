@@ -293,3 +293,4 @@
 <li>Day 25: Word Break II (140) (25th May 2024)</li>
 <li>Day 26: Student Attendance Record II (552) (26th May 2024)</li>
 <li>Day 27: Special Array With X Elements Greater Than Or Equal X (1608) (27th May 2024)</li>
+<li>Day 28: Get Equal Substrings Within Budget (1208) (28th May 2024)</li>
