@@ -294,3 +294,4 @@
 <li>Day 26: Student Attendance Record II (552) (26th May 2024)</li>
 <li>Day 27: Special Array With X Elements Greater Than Or Equal X (1608) (27th May 2024)</li>
 <li>Day 28: Get Equal Substrings Within Budget (1208) (28th May 2024)</li>
+<li>Day 29: Number Of Steps To Reduce A Number In Binary Representation To One (1404) (29th May 2024)</li>
