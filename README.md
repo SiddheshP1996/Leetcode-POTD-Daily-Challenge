@@ -297,3 +297,6 @@
 <li>Day 29: Number Of Steps To Reduce A Number In Binary Representation To One (1404) (29th May 2024)</li>
 <li>Day 30: Count Triplets That Can Form Two Arrays Of Equal XOR (1442) (30th May 2024)</li>
 <li>Day 31: Single Number III (260) (31st May 2024)</li>
+
+# June-2024
+<li>Day 1: Score Of A String (3110) (1st June 2024)</li>
