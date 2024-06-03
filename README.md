@@ -301,3 +301,4 @@
 # June-2024
 <li>Day 1: Score Of A String (3110) (1st June 2024)</li>
 <li>Day 2: Reverse String (344) (2nd June 2024)</li>
+<li>Day 3: Append Characters To String To Make Subsequence (2486) (3rd June 2024)</li>
