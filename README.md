@@ -301,5 +301,6 @@
 # June-2024
 <li>Day 1: Score Of A String (3110) (1st June 2024)</li>
 <li>Day 2: Reverse String (344) (2nd June 2024)</li>
-<li>Day 3: Append Characters To String To Make Subsequence (2486) (3rd June 2024)</li>
+<li>Day 3: Append Characters To String To Make Subsequence (2486) (3rd June 2024)</ li>
 <li>Day 4: Longest Palindrome (409) (4th June 2024)</li>
+<li>Day 5: Find Common Characters (1002) (5th June 2024)</li>
