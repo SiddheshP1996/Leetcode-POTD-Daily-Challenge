@@ -305,3 +305,4 @@
 <li>Day 4: Longest Palindrome (409) (4th June 2024)</li>
 <li>Day 5: Find Common Characters (1002) (5th June 2024)</li>
 <li>Day 6: Hand Of Straights (846) (6th June 2024)</li>
+<li>Day 7: Replace Words (648) (7th June 2024)</li>
