@@ -307,3 +307,4 @@
 <li>Day 6: Hand Of Straights (846) (6th June 2024)</li>
 <li>Day 7: Replace Words (648) (7th June 2024)</li>
 <li>Day 8: Continuous Subarray Sum (523) (8th June 2024)</li>
+<li>Day 9: Subarray Sums Divisible By K (974) (9th June 2024)</li>
