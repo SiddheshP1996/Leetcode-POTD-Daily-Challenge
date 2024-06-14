@@ -312,3 +312,4 @@
 <li>Day 11: Relative Sort Array (1122) (11th June 2024)</li>
 <li>Day 12: Sort Colors (75) (12th June 2024)</li>
 <li>Day 13: Minimum Number Of Moves To Seat Everyone (2037) (13th June 2024)</li>
+<li>Day 14: Minimum Increment To Make Array Unique (945) (14th June 2024)</li>
