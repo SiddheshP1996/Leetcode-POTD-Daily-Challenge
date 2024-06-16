@@ -314,3 +314,4 @@
 <li>Day 13: Minimum Number Of Moves To Seat Everyone (2037) (13th June 2024)</li>
 <li>Day 14: Minimum Increment To Make Array Unique (945) (14th June 2024)</li>
 <li>Day 15: IPO (502) (15th June 2024)</li>
+<li>Day 16: Patching Array (330) (16th June 2024)</li>
