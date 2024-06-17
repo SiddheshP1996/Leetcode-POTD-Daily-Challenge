@@ -315,3 +315,4 @@
 <li>Day 14: Minimum Increment To Make Array Unique (945) (14th June 2024)</li>
 <li>Day 15: IPO (502) (15th June 2024)</li>
 <li>Day 16: Patching Array (330) (16th June 2024)</li>
+<li>Day 17: Sum Of Square Numbers (633) (17th June 2024)</li>
