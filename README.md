@@ -316,3 +316,4 @@
 <li>Day 15: IPO (502) (15th June 2024)</li>
 <li>Day 16: Patching Array (330) (16th June 2024)</li>
 <li>Day 17: Sum Of Square Numbers (633) (17th June 2024)</li>
+<li>Day 18: Most Profit Assigning Work (826) (18th June 2024)</li>
