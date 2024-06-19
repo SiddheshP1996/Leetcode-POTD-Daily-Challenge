@@ -317,3 +317,4 @@
 <li>Day 16: Patching Array (330) (16th June 2024)</li>
 <li>Day 17: Sum Of Square Numbers (633) (17th June 2024)</li>
 <li>Day 18: Most Profit Assigning Work (826) (18th June 2024)</li>
+<li>Day 19: Minimum Number Of Days To Make m-Bouquets (1482) (19th June 2024)</li>
