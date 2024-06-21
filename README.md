@@ -319,3 +319,4 @@
 <li>Day 18: Most Profit Assigning Work (826) (18th June 2024)</li>
 <li>Day 19: Minimum Number Of Days To Make m-Bouquets (1482) (19th June 2024)</li>
 <li>Day 20: Magnetic Force Between Two Balls (1552) (20th June 2024)</li>
+<li>Day 21: Grumpy Bookstore Owner (1052) (21st June 2024)</li>
