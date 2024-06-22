@@ -320,3 +320,4 @@
 <li>Day 19: Minimum Number Of Days To Make m-Bouquets (1482) (19th June 2024)</li>
 <li>Day 20: Magnetic Force Between Two Balls (1552) (20th June 2024)</li>
 <li>Day 21: Grumpy Bookstore Owner (1052) (21st June 2024)</li>
+<li>Day 22: Count Number Of Nice Subarrays (1248) (22nd June 2024)</li>
