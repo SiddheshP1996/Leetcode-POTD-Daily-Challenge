@@ -323,3 +323,4 @@
 <li>Day 22: Count Number Of Nice Subarrays (1248) (22nd June 2024)</li>
 <li>Day 23: Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit (1438) (23rd June 2024)</li>
 <li>Day 24: Minimum Number Of K Consecutive Bit Flips (995) (24th June 2024)</li>
+<li>Day 25: Binary Search Tree To Greater Sum Tree (1038) (25th June 2024)</li>
