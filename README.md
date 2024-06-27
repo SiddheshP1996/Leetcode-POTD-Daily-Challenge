@@ -325,3 +325,4 @@
 <li>Day 24: Minimum Number Of K Consecutive Bit Flips (995) (24th June 2024)</li>
 <li>Day 25: Binary Search Tree To Greater Sum Tree (1038) (25th June 2024)</li>
 <li>Day 26: Balance A Binary Search Tree (1382) (26th June 2024)</li>
+<li>Day 27: Find Center Of Star Graph (1791) (27th June 2024)</li>
