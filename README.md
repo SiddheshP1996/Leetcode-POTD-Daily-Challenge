@@ -327,3 +327,4 @@
 <li>Day 26: Balance A Binary Search Tree (1382) (26th June 2024)</li>
 <li>Day 27: Find Center Of Star Graph (1791) (27th June 2024)</li>
 <li>Day 28: Maximum Total Importance Of Roads (2285) (28th June 2024)</li>
+<li>Day 29: All Ancestors Of A Node In A Directed Acyclic Graph (2192) (29th June 2024)</li>
