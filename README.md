@@ -329,3 +329,6 @@
 <li>Day 28: Maximum Total Importance Of Roads (2285) (28th June 2024)</li>
 <li>Day 29: All Ancestors Of A Node In A Directed Acyclic Graph (2192) (29th June 2024)</li>
 <li>Day 30: Remove Max Number Of Edges To Keep Graph Fully Traversable (1579) (30th June 2024)</li>
+
+# July-2024
+<li>Day 1: Three Consecutive Odds (1550) (1st July 2024)</li>
