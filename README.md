@@ -333,3 +333,4 @@
 # July-2024
 <li>Day 1: Three Consecutive Odds (1550) (1st July 2024)</li>
 <li>Day 2: Intersection Of Two Arrays II (350) (2nd July 2024)</li>
+<li>Day 3: Minimum Difference Between Largest And Smallest Value In Three Moves (1509) (3rd July 2024)</li>
