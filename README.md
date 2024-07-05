@@ -335,3 +335,4 @@
 <li>Day 2: Intersection Of Two Arrays II (350) (2nd July 2024)</li>
 <li>Day 3: Minimum Difference Between Largest And Smallest Value In Three Moves (1509) (3rd July 2024)</li>
 <li>Day 4: Merge Nodes In Between Zeros (2181) (4th July 2024)</li>
+<li>Day 5: Find The Minimum And Maximum Number Of Nodes Between Critical Points (2058) (5th July 2024)</li>
