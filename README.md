@@ -336,3 +336,4 @@
 <li>Day 3: Minimum Difference Between Largest And Smallest Value In Three Moves (1509) (3rd July 2024)</li>
 <li>Day 4: Merge Nodes In Between Zeros (2181) (4th July 2024)</li>
 <li>Day 5: Find The Minimum And Maximum Number Of Nodes Between Critical Points (2058) (5th July 2024)</li>
+<li>Day 6: Pass The Pillow (582) (6th July 2024)</li>
