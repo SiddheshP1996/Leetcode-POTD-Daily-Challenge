@@ -338,3 +338,4 @@
 <li>Day 5: Find The Minimum And Maximum Number Of Nodes Between Critical Points (2058) (5th July 2024)</li>
 <li>Day 6: Pass The Pillow (582) (6th July 2024)</li>
 <li>Day 7: Water Bottles (1518) (7th July 2024)</li>
+<li>Day 8: Find The Winner Of The Circular Game (1823) (8th July 2024)</li>
