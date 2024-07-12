@@ -342,3 +342,4 @@
 <li>Day 9: Average Waiting Time (1701) (9th July 2024)</li>
 <li>Day 10: Crawler Log Folder (1598) (10th July 2024)</li>
 <li>Day 11: Reverse Substrings Between Each Pair Of Parentheses (1190) (11th July 2024)</li>
+<li>Day 12: Maximum Score From Removing Substrings (1717) (12th July 2024)</li>
