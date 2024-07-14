@@ -344,3 +344,4 @@
 <li>Day 11: Reverse Substrings Between Each Pair Of Parentheses (1190) (11th July 2024)</li>
 <li>Day 12: Maximum Score From Removing Substrings (1717) (12th July 2024)</li>
 <li>Day 13: Robot Collisions (2751) (13th July 2024)</li>
+<li>Day 14: Number Of Atoms (726) (14th July 2024)</li>
