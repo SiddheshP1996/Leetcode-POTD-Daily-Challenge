@@ -346,3 +346,4 @@
 <li>Day 13: Robot Collisions (2751) (13th July 2024)</li>
 <li>Day 14: Number Of Atoms (726) (14th July 2024)</li>
 <li>Day 15: Create Binary Tree From Descriptions (2196) (15th July 2024)</li>
+<li>Day 16: Step By Step Directions From A Binary Tree Node To Another (2096) (16th July 2024)</li>
