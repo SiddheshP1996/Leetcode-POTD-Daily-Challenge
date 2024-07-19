@@ -349,3 +349,4 @@
 <li>Day 16: Step By Step Directions From A Binary Tree Node To Another (2096) (16th July 2024)</li>
 <li>Day 17: Delete Nodes And Return Forest (1110) (17th July 2024)</li>
 <li>Day 18: Number Of Good Leaf Nodes Pairs (1530) (18th July 2024)</li>
+<li>Day 19: Lucky Numbers In A Matrix (1380) (19th July 2024)</li>
