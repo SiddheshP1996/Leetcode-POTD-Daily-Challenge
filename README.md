@@ -350,3 +350,4 @@
 <li>Day 17: Delete Nodes And Return Forest (1110) (17th July 2024)</li>
 <li>Day 18: Number Of Good Leaf Nodes Pairs (1530) (18th July 2024)</li>
 <li>Day 19: Lucky Numbers In A Matrix (1380) (19th July 2024)</li>
+<li>Day 20: Find Valid Matrix Given Row And Column Sums (1605) (20th July 2024)</li>
