@@ -355,4 +355,5 @@
 <li>Day 22: Sort The People (2418) (22nd July 2024)</li>
 <li>Day 23: Sort Array By Increasing Frequency (1636) (23rd July 2024)</li>
 <li>Day 24: Sort The Jumbled Numbers (2191) (24th July 2024)</li>
-<li>Day 25 Sort An Array (912) (25th July 2024)</li>
+<li>Day 25: Sort An Array (912) (25th July 2024)</li>
+<li>Day 26: Find The City With The Smallest Number Of Neighbors At A Threshold Distance (1334) (26th July 2024)</li>
