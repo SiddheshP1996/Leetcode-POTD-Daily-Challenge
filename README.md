@@ -357,3 +357,4 @@
 <li>Day 24: Sort The Jumbled Numbers (2191) (24th July 2024)</li>
 <li>Day 25: Sort An Array (912) (25th July 2024)</li>
 <li>Day 26: Find The City With The Smallest Number Of Neighbors At A Threshold Distance (1334) (26th July 2024)</li>
+<li>Day 27: Minimum Cost To Convert String I (2976) (27th July 2024)</li>
