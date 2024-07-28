@@ -358,3 +358,4 @@
 <li>Day 25: Sort An Array (912) (25th July 2024)</li>
 <li>Day 26: Find The City With The Smallest Number Of Neighbors At A Threshold Distance (1334) (26th July 2024)</li>
 <li>Day 27: Minimum Cost To Convert String I (2976) (27th July 2024)</li>
+<li>Day 28: Second Minimum Time To Reach Destination (2045) (28th July 2024)</li>
