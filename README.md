@@ -361,3 +361,4 @@
 <li>Day 28: Second Minimum Time To Reach Destination (2045) (28th July 2024)</li>
 <li>Day 29: Count Number Of Teams (1395) (29th July 2024)</li>
 <li>Day 30: Minimum Deletions To Make String Balanced (1653) (30th July 2024)</li>
+<li>Day 31: Filling Bookcase Shelves (1105) (31st July 2024)</li>
