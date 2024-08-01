@@ -362,3 +362,6 @@
 <li>Day 29: Count Number Of Teams (1395) (29th July 2024)</li>
 <li>Day 30: Minimum Deletions To Make String Balanced (1653) (30th July 2024)</li>
 <li>Day 31: Filling Bookcase Shelves (1105) (31st July 2024)</li>
+
+# August-2024
+<li>Day 1: Number Of Senior Citizens (2678) (1st August 2024)</li>
