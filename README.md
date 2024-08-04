@@ -367,3 +367,4 @@
 <li>Day 1: Number Of Senior Citizens (2678) (1st August 2024)</li>
 <li>Day 2: Minimum Swaps To Group All 1's Together II (2134) (2nd August 2024)</li>
 <li>Day 3: Make Two Arrays Equal By Reversing Subarrays (1460) (3rd August 2024)</li>
+<li>Day 4: Range Sum Of Sorted Subarray Sums (1508) (4th August 2024)</li>
