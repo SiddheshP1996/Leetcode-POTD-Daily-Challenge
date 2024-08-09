@@ -372,3 +372,4 @@
 <li>Day 6: Minimum Number Of Pushes To Type Word II (3016) (6th August 2024)</li>
 <li>Day 7: Integer To English Words (273) (7th August 2024)</li>
 <li>Day 8: Spiral Matrix III (885) (8th August 2024)</li>
+<li>Day 9: Magic Squares In Grid (840) (9th August 2024)</li>
