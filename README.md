@@ -373,3 +373,4 @@
 <li>Day 7: Integer To English Words (273) (7th August 2024)</li>
 <li>Day 8: Spiral Matrix III (885) (8th August 2024)</li>
 <li>Day 9: Magic Squares In Grid (840) (9th August 2024)</li>
+<li>Day 10: Regions Cut By Slashes (959) (10th August 2024)</li>
