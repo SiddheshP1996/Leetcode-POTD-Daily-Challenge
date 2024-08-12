@@ -375,3 +375,4 @@
 <li>Day 9: Magic Squares In Grid (840) (9th August 2024)</li>
 <li>Day 10: Regions Cut By Slashes (959) (10th August 2024)</li>
 <li>Day 11: Minimum Number Of Days To Disconnect Island (1568) (11th August 2024)</li>
+<li>Day 12: Kth Largest Element In A Stream (703) (12th August 2024)</li>
