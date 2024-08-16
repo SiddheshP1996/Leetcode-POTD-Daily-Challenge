@@ -379,3 +379,4 @@
 <li>Day 13: Combination Sum II (40) (13th August 2024)</li>
 <li>Day 14: Find K-th Smallest Pair Distance (719) (14th August 2024)</li>
 <li>Day 15: Lemonade Change (860) (15th August 2024)</li>
+<li>Day 16: Maximum Distance In Arrays (624) (16th August 2024)</li>
