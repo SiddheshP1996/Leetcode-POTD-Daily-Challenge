@@ -382,3 +382,4 @@
 <li>Day 16: Maximum Distance In Arrays (624) (16th August 2024)</li>
 <li>Day 17: Maximum Number Of Points With Cost (1937) (17th August 2024)</li>
 <li>Day 18: Ugly Number II (264) (18th August 2024)</li>
+<li>Day 19: 2 Keys Keyboard (650) (19th August 2024)</li>
