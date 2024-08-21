@@ -384,3 +384,4 @@
 <li>Day 18: Ugly Number II (264) (18th August 2024)</li>
 <li>Day 19: 2 Keys Keyboard (650) (19th August 2024)</li>
 <li>Day 20: Stone Game II (1140) (20th August 2024)</li>
+<li>Day 21: Strange Printer (664) (21st August 2024)</li>
