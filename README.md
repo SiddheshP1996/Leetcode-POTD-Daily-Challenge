@@ -387,3 +387,4 @@
 <li>Day 21: Strange Printer (664) (21st August 2024)</li>
 <li>Day 22: Number Complement (476) (22nd August 2024)</li>
 <li>Day 23: Fraction Addition And Subtraction (592) (23rd August 2024)</li>
+<li>Day 24: Find The Closest Palindrome (564) (24th August 2024)</li>
