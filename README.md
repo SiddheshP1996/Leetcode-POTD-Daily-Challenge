@@ -390,3 +390,4 @@
 <li>Day 24: Find The Closest Palindrome (564) (24th August 2024)</li>
 <li>Day 25: Binary Tree Postorder Traversal (145) (25th August 2024)</li>
 <li>Day 26: N-ary Tree Postorder Traversal (590) (26th August 2024)</li>
+<li>Day 27: Path With Maximum Probability (1514) (27th August 2024)</li>
