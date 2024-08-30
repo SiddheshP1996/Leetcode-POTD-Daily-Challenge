@@ -393,3 +393,4 @@
 <li>Day 27: Path With Maximum Probability (1514) (27th August 2024)</li>
 <li>Day 28: Count Sub Islands (1905) (28th August 2024)</li>
 <li>Day 29: Most Stones Removed With Same Row Or Column (947) (29th August 2024)</li>
+<li>Day 30: Modify Graph Edge Weights (2699) (30th August 2024)</li>
