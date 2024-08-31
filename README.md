@@ -390,7 +390,8 @@
 <li>Day 24: Find The Closest Palindrome (564) (24th August 2024)</li>
 <li>Day 25: Binary Tree Postorder Traversal (145) (25th August 2024)</li>
 <li>Day 26: N-ary Tree Postorder Traversal (590) (26th August 2024)</li>
-<li>Day 27: Path With Maximum Probability (1514) (27th August 2024)</li>
+<li>Day 27: Two Sum (1) (27th August 2024)</li>
 <li>Day 28: Count Sub Islands (1905) (28th August 2024)</li>
 <li>Day 29: Most Stones Removed With Same Row Or Column (947) (29th August 2024)</li>
 <li>Day 30: Modify Graph Edge Weights (2699) (30th August 2024)</li>
+<li>Day 31: Path With Maximum Probability (1514) (31st August 2024)</li>
