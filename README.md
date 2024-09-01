@@ -395,3 +395,6 @@
 <li>Day 29: Most Stones Removed With Same Row Or Column (947) (29th August 2024)</li>
 <li>Day 30: Modify Graph Edge Weights (2699) (30th August 2024)</li>
 <li>Day 31: Path With Maximum Probability (1514) (31st August 2024)</li>
+
+# September-2024
+<li>Day 1: Convert 1D Array Into 2D Array (2022) (1st Septembver 2024)</li>
