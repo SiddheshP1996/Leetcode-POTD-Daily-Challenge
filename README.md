@@ -397,4 +397,5 @@
 <li>Day 31: Path With Maximum Probability (1514) (31st August 2024)</li>
 
 # September-2024
-<li>Day 1: Convert 1D Array Into 2D Array (2022) (1st Septembver 2024)</li>
+<li>Day 1: Convert 1D Array Into 2D Array (2022) (1st September 2024)</li>
+<li>Day 2: Find The Student That Will Replace The Chalk (1894) (2nd September 2024)</li>
