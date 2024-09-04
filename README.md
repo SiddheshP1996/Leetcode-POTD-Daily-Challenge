@@ -400,3 +400,4 @@
 <li>Day 1: Convert 1D Array Into 2D Array (2022) (1st September 2024)</li>
 <li>Day 2: Find The Student That Will Replace The Chalk (1894) (2nd September 2024)</li>
 <li>Day 3: Sum Of Digits Of String After Convert (1945) (3rd September 2024)</li>
+<li>Day 4: Walking Robot Simulation (874) (4th September 2024)</li>
