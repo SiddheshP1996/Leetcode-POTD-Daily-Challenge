@@ -402,3 +402,4 @@
 <li>Day 3: Sum Of Digits Of String After Convert (1945) (3rd September 2024)</li>
 <li>Day 4: Walking Robot Simulation (874) (4th September 2024)</li>
 <li>Day 5: Find Missing Observations (2028) (5th September 2024)</li>
+<li>Day 6: Delete Nodes From Linked List Present In Array (3217) (6th September 2024)</li>
