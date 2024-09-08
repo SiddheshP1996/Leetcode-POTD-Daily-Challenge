@@ -404,3 +404,4 @@
 <li>Day 5: Find Missing Observations (2028) (5th September 2024)</li>
 <li>Day 6: Delete Nodes From Linked List Present In Array (3217) (6th September 2024)</li>
 <li>Day 7: Linked List In Binary Tree (1367) (7th September 2024)</li>
+<li>Day 8: Split Linked List In Parts (725) (8th September 2024)</li>
