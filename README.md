@@ -406,3 +406,4 @@
 <li>Day 7: Linked List In Binary Tree (1367) (7th September 2024)</li>
 <li>Day 8: Split Linked List In Parts (725) (8th September 2024)</li>
 <li>Day 9: Spiral Matrix IV (2326) (9th September 2024)</li>
+<li>Day 10: Insert Greatest Common Divisors In Linked List (2807) (10th September 2024)</li>
