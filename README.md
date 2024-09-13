@@ -409,3 +409,4 @@
 <li>Day 10: Insert Greatest Common Divisors In Linked List (2807) (10th September 2024)</li>
 <li>Day 11: Minimum Bit Flips To Convert Number (2220) (11th September 2024)</li>
 <li>Day 12: Count The Number Of Consistent Strings (1684) (12th September 2024)</li>
+<li>Day 13: XOR Queries Of A Subarray (1310) (13th September 2024)</li>
