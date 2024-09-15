@@ -411,3 +411,4 @@
 <li>Day 12: Count The Number Of Consistent Strings (1684) (12th September 2024)</li>
 <li>Day 13: XOR Queries Of A Subarray (1310) (13th September 2024)</li>
 <li>Day 14: Longest Subarray With Maximum Bitwise AND (2419) (14th September 2024)</li>
+<li>Day 15: Find The Longest Substring Containing Vowels In Even Counts (1371) (15th September 2024)</li>
