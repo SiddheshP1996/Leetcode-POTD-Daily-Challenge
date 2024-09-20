@@ -416,3 +416,4 @@
 <li>Day 17: Uncommon Words From Two Sentences (884) (17th September 2024)</li>
 <li>Day 18: Largest Number (179) (18th September 2024)</li>
 <li>Day 19: Different Ways To Add Parentheses (241) (19th September 2024)</li>
+<li>Day 20: Shortest Palindrome (214) (20th September 2024)</li>
