@@ -419,3 +419,4 @@
 <li>Day 20: Shortest Palindrome (214) (20th September 2024)</li>
 <li>Day 21: Lexicographical Numbers (386) (21st September 2024)</li>
 <li>Day 22: K-th Smallest In Lexicographical Order (440) (22nd September 2024)</li>
+<li>Day 23: Extra Characters In A String (2707) (23rd September 2024)</li>
