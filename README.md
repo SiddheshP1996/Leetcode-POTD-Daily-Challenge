@@ -423,3 +423,4 @@
 <li>Day 24: Find The Length Of The Longest Common Prefix (3043) (24th September 2024)</li>
 <li>Day 25: Sum Of Prefix Scores Of Strings (2416) (25th September 2024)</li>
 <li>Day 26: My Calendar I (729) (26th September 2024)</li>
+<li>Day 27: My Calendar II (731) (27th September 2024)</li>
