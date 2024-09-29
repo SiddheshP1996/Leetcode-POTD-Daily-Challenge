@@ -425,3 +425,4 @@
 <li>Day 26: My Calendar I (729) (26th September 2024)</li>
 <li>Day 27: My Calendar II (731) (27th September 2024)</li>
 <li>Day 28: Design Circular Deque (641) (28th September 2024)</li>
+<li>Day 29: All O`one Data Structure (432) (29th September 2024)</li>
