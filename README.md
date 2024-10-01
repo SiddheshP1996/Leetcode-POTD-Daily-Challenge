@@ -427,3 +427,6 @@
 <li>Day 28: Design Circular Deque (641) (28th September 2024)</li>
 <li>Day 29: All O`one Data Structure (432) (29th September 2024)</li>
 <li>Day 30: Design A Stack With Increment Operation (1381) (30th September 2024)</li>
+
+# October-2024
+<li>Day 1: Check If Array Pairs Are Divisible By k (1497) (1st October 2024)</li>
