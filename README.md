@@ -431,3 +431,4 @@
 # October-2024
 <li>Day 1: Check If Array Pairs Are Divisible By k (1497) (1st October 2024)</li>
 <li>Day 2: Rank Transform Of An Array (1331) (2nd October 2024)</li>
+<li>Day 3: Make Sum Divisible By P (1590) (3rd October 2024)</li>
