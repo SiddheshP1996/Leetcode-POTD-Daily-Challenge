@@ -433,3 +433,4 @@
 <li>Day 2: Rank Transform Of An Array (1331) (2nd October 2024)</li>
 <li>Day 3: Make Sum Divisible By P (1590) (3rd October 2024)</li>
 <li>Day 4: Divide Players Into Teams Of Equal Skill (2491) (4th October 2024)</li>
+<li>Day 5: Permutation In String (567) (5th October 2024)</li>
