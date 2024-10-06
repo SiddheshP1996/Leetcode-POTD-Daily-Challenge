@@ -434,3 +434,4 @@
 <li>Day 3: Make Sum Divisible By P (1590) (3rd October 2024)</li>
 <li>Day 4: Divide Players Into Teams Of Equal Skill (2491) (4th October 2024)</li>
 <li>Day 5: Permutation In String (567) (5th October 2024)</li>
+<li>Day 6: Sentence Similarity III (1813) (6th October 2024)</li>
