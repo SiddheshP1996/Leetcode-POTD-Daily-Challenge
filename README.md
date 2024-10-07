@@ -435,3 +435,4 @@
 <li>Day 4: Divide Players Into Teams Of Equal Skill (2491) (4th October 2024)</li>
 <li>Day 5: Permutation In String (567) (5th October 2024)</li>
 <li>Day 6: Sentence Similarity III (1813) (6th October 2024)</li>
+<li>Day 7: Minimum String Length After Removing Substrings (2696) (7th October 2024)</li>
