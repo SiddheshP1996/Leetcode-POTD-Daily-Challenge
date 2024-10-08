@@ -436,3 +436,4 @@
 <li>Day 5: Permutation In String (567) (5th October 2024)</li>
 <li>Day 6: Sentence Similarity III (1813) (6th October 2024)</li>
 <li>Day 7: Minimum String Length After Removing Substrings (2696) (7th October 2024)</li>
+<li>Day 8: Minimum Number Of Swaps To Make The String Balanced (1963) (8th October 2024)</li>
