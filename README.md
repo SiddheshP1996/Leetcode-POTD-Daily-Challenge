@@ -439,3 +439,4 @@
 <li>Day 8: Minimum Number Of Swaps To Make The String Balanced (1963) (8th October 2024)</li>
 <li>Day 9: Minimum Add To Make Parentheses Valid (921) (9th October 2024)</li>
 <li>Day 10: Maximum Width Ramp (962) (10th October 2024)</li>
+<li>Day 11: The Number Of The Smallest Unoccupied Chair (1942) (11th October 2024)</li>
