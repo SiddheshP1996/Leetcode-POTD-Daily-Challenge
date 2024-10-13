@@ -441,3 +441,4 @@
 <li>Day 10: Maximum Width Ramp (962) (10th October 2024)</li>
 <li>Day 11: The Number Of The Smallest Unoccupied Chair (1942) (11th October 2024)</li>
 <li>Day 12: Divide Intervals Into Minimum Number Of Groups (2406) (12th October 2024)</li>
+<li>Day 13: Smallest Range Covering Elements From K Lists (632) (13th October 2024)</li>
