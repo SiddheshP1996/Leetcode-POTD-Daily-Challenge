@@ -443,3 +443,4 @@
 <li>Day 12: Divide Intervals Into Minimum Number Of Groups (2406) (12th October 2024)</li>
 <li>Day 13: Smallest Range Covering Elements From K Lists (632) (13th October 2024)</li>
 <li>Day 14: Maximal Score After Applying K Operations (2530) (14th October 2024)</li>
+<li>Day 15: Separate Black And White Balls (2938) (15th October 2024)</li>
