@@ -446,3 +446,4 @@
 <li>Day 15: Separate Black And White Balls (2938) (15th October 2024)</li>
 <li>Day 16: Longest Happy String (1405) (16th October 2024)</li>
 <li>Day 17: Maximum Swap (670) (17th October 2024)</li>
+<li>Day 18: Count Number Of Maximum Bitwise OR Subsets (2044) (18th October 2024)</li>
