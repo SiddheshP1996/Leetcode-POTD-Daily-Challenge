@@ -448,3 +448,4 @@
 <li>Day 17: Maximum Swap (670) (17th October 2024)</li>
 <li>Day 18: Count Number Of Maximum Bitwise OR Subsets (2044) (18th October 2024)</li>
 <li>Day 19: Find Kth Bit In Nth Binary String (1545) (19th October 2024)</li>
+<li>Day 20: Parsing A Boolean Expression (1106) (20th October 2024)</li>
