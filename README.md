@@ -452,3 +452,4 @@
 <li>Day 21: Split A String Into The Max Number Of Unique Substrings (1593) (21st October 2024)</li>
 <li>Day 22: Kth Largest Sum In A Binary Tree (2583) (22nd October 2024)</li>
 <li>Day 23: Cousins In Binary Tree II (2641) (23rd October 2024)</li>
+<li>Day 24: Flip Equivalent Binary Trees (951) (24th October 2024)</li>
