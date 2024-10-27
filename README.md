@@ -455,3 +455,5 @@
 <li>Day 24: Flip Equivalent Binary Trees (951) (24th October 2024)</li>
 <li>Day 25: Remove Sub-Folders From The Filesystem (1233) (25th October 2024)</li>
 <li>Day 26: Height Of Binary Tree After Subtree Removal Queries (2458) (26th October 2024)</li>
+<li>Day 27: Count Square Submatrices With All Ones (1277) (27th October 2024)</li>
+
