@@ -457,3 +457,4 @@
 <li>Day 26: Height Of Binary Tree After Subtree Removal Queries (2458) (26th October 2024)</li>
 <li>Day 27: Count Square Submatrices With All Ones (1277) (27th October 2024)</li>
 <li>Day 28: Longest Square Streak In An Array (2501) (28th October 2024)</li>
+<li>Day 29: Maximum Number Of Moves In A Grid (2684) (29th October 2024)</li>
