@@ -458,3 +458,4 @@
 <li>Day 27: Count Square Submatrices With All Ones (1277) (27th October 2024)</li>
 <li>Day 28: Longest Square Streak In An Array (2501) (28th October 2024)</li>
 <li>Day 29: Maximum Number Of Moves In A Grid (2684) (29th October 2024)</li>
+<li>Day 30: Minimum Number Of Removals To Make Mountain Array (1671) (30th October 2024)</li>
