@@ -460,3 +460,7 @@
 <li>Day 29: Maximum Number Of Moves In A Grid (2684) (29th October 2024)</li>
 <li>Day 30: Minimum Number Of Removals To Make Mountain Array (1671) (30th October 2024)</li>
 <li>Day 31: Minimum Total Distance Traveled (2463) (31st October 2024)</li>
+
+# November-2024
+<li>Day 1: Delete Characters To Make Fancy String (1957) (1st November 2024)</li>
+
