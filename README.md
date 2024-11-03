@@ -464,4 +464,5 @@
 # November-2024
 <li>Day 1: Delete Characters To Make Fancy String (1957) (1st November 2024)</li>
 <li>Day 2: Circular Sentence (2490) (2nd November 2024)</li>
+<li>Day 3: Rotate String (796) (3rd November 2024)</li>
 
