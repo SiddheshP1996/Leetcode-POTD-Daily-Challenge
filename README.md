@@ -470,3 +470,4 @@
 <li>Day 6: Find If Array Can Be Sorted (3011) (6th November 2024)</li>
 <li>Day 7: Largest Combination With Bitwise AND Greater Than Zero (2275) (7th November 2024)</li>
 <li>Day 8: Maximum XOR For Each Query (1829) (8th November 2024)</li>
+<li>Day 9: Minimum Array End (3133) (9th November 2024)</li>
