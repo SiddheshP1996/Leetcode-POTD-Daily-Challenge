@@ -474,3 +474,4 @@
 <li>Day 10: Shortest Subarray With OR At Least K II (3097) (10th November 2024)</li>
 <li>Day 11: Prime Subtraction Operation (2601) (11th November 2024)</li>
 <li>Day 12: Most Beautiful Item For Each Query (2070) (12th November 2024)</li>
+<li>Day 13: Count The Number Of Fair Pairs (2563) (13th November 2024)</li>
