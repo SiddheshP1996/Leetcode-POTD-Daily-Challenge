@@ -477,3 +477,4 @@
 <li>Day 13: Count The Number Of Fair Pairs (2563) (13th November 2024)</li>
 <li>Day 14: Minimized Maximum Of Products Distributed To Any Store (2064) (14th November 2024)</li>
 <li>Day 15: Shortest Subarray To Be Removed To Make Array Sorted (1574) (15th November 2024)</li>
+<li>Day 16: Find The Power Of K-Size Subarrays I (3254) (16th November 2024)</li>
