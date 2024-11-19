@@ -480,3 +480,4 @@
 <li>Day 16: Find The Power Of K-Size Subarrays I (3254) (16th November 2024)</li>
 <li>Day 17: Shortest Subarray With Sum At Least K (862) (17th November 2024)</li>
 <li>Day 18: Defuse The Bomb (1652) (18th November 2024)</li>
+<li>Day 19: Maximum Sum Of Distinct Subarrays With Length K (2461) (19th November 2024)</li>
