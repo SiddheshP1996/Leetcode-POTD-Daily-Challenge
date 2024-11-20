@@ -481,3 +481,4 @@
 <li>Day 17: Shortest Subarray With Sum At Least K (862) (17th November 2024)</li>
 <li>Day 18: Defuse The Bomb (1652) (18th November 2024)</li>
 <li>Day 19: Maximum Sum Of Distinct Subarrays With Length K (2461) (19th November 2024)</li>
+<li>Day 20: Take K Of Each Character From Left And Right (2516) (20th November 2024)</li>
