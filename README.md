@@ -484,3 +484,4 @@
 <li>Day 20: Take K Of Each Character From Left And Right (2516) (20th November 2024)</li>
 <li>Day 21: Count Unguarded Cells In The Grid (2257) (21st November 2024)</li>
 <li>Day 22: Flip Columns For Maximum Number Of Equal Rows (1072) (22nd November 2024)</li>
+<li>Day 23: Rotating The Box (1861) (23rd November 2024)</li>
