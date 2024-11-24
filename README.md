@@ -485,3 +485,4 @@
 <li>Day 21: Count Unguarded Cells In The Grid (2257) (21st November 2024)</li>
 <li>Day 22: Flip Columns For Maximum Number Of Equal Rows (1072) (22nd November 2024)</li>
 <li>Day 23: Rotating The Box (1861) (23rd November 2024)</li>
+<li>Day 24: Maximum Matrix Sum (1975) (24th November 2024)</li>
