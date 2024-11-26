@@ -487,3 +487,4 @@
 <li>Day 23: Rotating The Box (1861) (23rd November 2024)</li>
 <li>Day 24: Maximum Matrix Sum (1975) (24th November 2024)</li>
 <li>Day 25: Sliding Puzzle (773) (25th November 2024)</li>
+<li>Day 26: Find Champion II (2924) (26th November 2024)</li>
