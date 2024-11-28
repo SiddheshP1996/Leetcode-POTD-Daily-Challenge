@@ -489,3 +489,4 @@
 <li>Day 25: Sliding Puzzle (773) (25th November 2024)</li>
 <li>Day 26: Find Champion II (2924) (26th November 2024)</li>
 <li>Day 27: Shortest Distance After Road Addition Queries I (3243) (27th November 2024)</li>
+<li>Day 28: Minimum Obstacle Removal To Reach Corner (2290) (28th November 2024)</li>
