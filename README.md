@@ -495,3 +495,4 @@
 
 # December-2024
 <li>Day 1: Check If N and Its Double Exist (1346) (1st December 2024)</li>
+<li>Day 2: Check If A Word Occurs As A Prefix Of Any Word In A Sentence (1455) (2nd December 2024)</li>
