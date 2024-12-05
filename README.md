@@ -499,3 +499,4 @@
 <li>Day 3: Adding Spaces To A String (2109) (3rd December 2024)</li>
 <li>Day 3: Adding Spaces To A String (2109) (3rd December 2024)</li>
 <li>Day 4: Make String A Subsequence Using Cyclic Increments (2825) (4th December 2024)</li>
+<li>Day 5: Move Pieces To Obtain A String (2337) (5th December 2024)</li>
